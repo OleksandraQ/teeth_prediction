@@ -9,7 +9,7 @@ Additional support libraries were in the following versions:
 1. Numpy 1.13.3
 2. Matplotlib 2.2.2
 3. Sklearn 0.19.1
-4. 1.1.0
+4. Scipy 1.1.0
 
 All data necessary to produce the results are in the folder *Data*. Jupyter notebook for predicting hardness is named *predicting_hardness.ipynb*; for elastic modulus is *predicting_elastic_modulus.ipynb*. The plots shown at the Extended Data Figure 9 can be reproduced using the same notebooks. 
 
