@@ -1,6 +1,6 @@
 # teeth_prediction
 
-Relevant Code for manuscript: "Rapid tooth evolution engendered by hierarchical hard dental tissue changes", Jennifer Knaus, et al.
+Codes for the manuscript: "Rapid tooth evolution engendered by hierarchical hard dental tissue changes", Jennifer Knaus, et al.
 
 All predictions with neural networks and importance analysis of elements in the paper were done in Python 2.7.15 with PyTorch v 1.0.1. For elements' importance analysis SHAP v 0.28.5 (https://github.com/slundberg/shap) package was used.
 
